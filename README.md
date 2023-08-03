@@ -1,7 +1,7 @@
 # RalphHightower Sources GitHub Dev Edit
 
 | Repository | Description | Edit Link | Type |
-|---|---|---|---
+|---|---|---|---|
 | [RalphHightower/RalphHightower](https://github.com/RalphHightower/RalphHightower/ ) | Ralph Hightower's GitHub | https://github.dev/RalphHightower/RalphHightower/ | Repository |
 | [RalphHightower/RalphHightower.github.io](https://github.com/RalphHightower/RalphHightower.github.io/ ) | Ralph Hightower Collection of Repositories | https://github.dev/RalphHightower/RalphHightower.github.io/ | Repository |
 | [RalphHightower/Azure-Resources](https://github.com/RalphHightower/Azure-Resources/ ) | Useful Documents for Azure | https://github.dev/RalphHightower/Azure-Resources/ |Repository |
